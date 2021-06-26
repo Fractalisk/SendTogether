@@ -18,9 +18,11 @@ function LandingPage(props) {
           <div className="about-i197193 montserrat-normal-black-24px">{aboutI197193}</div>
           <div className="about-i195193 montserrat-normal-black-24px">{aboutI195193}</div>
           <div className="group-2">
-            <div className="overlap-group">
-              <div className="login">{<h1>{login}</h1>}</div>
-            </div>
+            <button className= "login-button">
+                <div className="overlap-group">
+                    <div className="login">{<h1>{login}</h1>}</div>
+                </div>
+            </button>
           </div>
         </div>
         <img className="group-4" src={group4} />

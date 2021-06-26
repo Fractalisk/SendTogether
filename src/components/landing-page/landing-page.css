@@ -52,8 +52,14 @@
     letter-spacing: 0;
     min-height: 29px;
     mix-blend-mode: normal;
-    margin-left: 15px;
+    margin-left: 22px;
+    margin-top: 5px;
   }
+  .login-button {
+    max-height: 87px;
+    max-width: 123px;
+  }
+
   .mdivector-combine {
     align-items: flex-start;
     display: flex;
@@ -68,9 +74,9 @@
   #3ec6ff;
     display: flex;
     height: 87px;
-    /*justify-content: flex-end;*/
     min-width: 123px;
-    /*padding: 26px 24px;*/
+    margin-left: -8px;
+    margin-top: -3px;
   }
   .title {
     letter-spacing: 0;
@@ -117,6 +123,7 @@
     font-weight: 400;
     font-style: normal;
   }
+
 
   :root {
     --black: 
