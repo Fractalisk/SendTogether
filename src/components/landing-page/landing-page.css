@@ -14,82 +14,138 @@
     min-width: 88px;
     mix-blend-mode: normal;
   }
+  .body {
+    align-items: center;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    /*margin-right: 7.91px;*/
+    margin-left: 150px;
+    margin-top: 22px;
+    min-height: 811px;
+    width: 981px;
+  }
   .flex-row {
-    margin-top: 20px;
+    align-items: center;
+    display: flex;
+    margin-left: 2.56px;
+    margin-top: 86px;
+    min-width: 853px;
+  }
+  .header {
     align-items: flex-start;
     display: flex;
     height: 89px;
-    margin-right: 1.0px;
-    min-width: 1347px;
+    min-width: 1356px;
+    margin-top: 30px;
   }
-  .group-2 {
-    align-items: flex-start;
-    align-self: flex-end;
-    display: flex;
-    margin-left: 790px;
-    min-width: 125px;
-  }
-  .group-4 {
-    height: 880px;
-    margin-top: 20px;
-    width: 1440px;
+  .image-1 {
+    height: 63px;
+    mix-blend-mode: normal;
+    object-fit: cover;
+    width: 69px;
   }
   .landing-page {
-    align-items: center;
+    align-items: flex-start;
     background-color: var(--white);
     display: flex;
     flex-direction: column;
     height: 1024px;
     mix-blend-mode: normal;
-    padding: 35px 0;
+    padding: 35px;
     width: 1440px;
   }
   .login {
     color: var(--white);
     font-family: var(--font-family-montserrat);
-    /*font-size: var(--font-size-m);*/
+    font-size: var(--font-size-m);
     font-weight: 700;
     letter-spacing: 0;
     min-height: 29px;
     mix-blend-mode: normal;
-    margin-left: 22px;
-    margin-top: 5px;
+    margin-top: 20px;
+    margin-right: 24px;
   }
   .login-button {
-    max-height: 87px;
-    max-width: 123px;
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    margin-left: 720px;
+    margin-bottom: 20px;
+    min-width: 125px;
   }
 
-  .mdivector-combine {
-    align-items: flex-start;
-    display: flex;
-    height: 59px;
-    mix-blend-mode: normal;
-    padding: 1.8px;
-    width: 59px;
+  button {
+    padding: 0px 0px;
   }
+
   .overlap-group {
     align-items: flex-start;
-    background-color: 
-  #3ec6ff;
+    background-color: var(--mahogany);
     display: flex;
-    height: 87px;
+    height: 72px;
+    justify-content: flex-end;
     min-width: 123px;
-    margin-left: -8px;
-    margin-top: -3px;
+  }
+  .overlap-group-1 {
+    background-size: 100% 100%;
+    height: 436px;
+    position: relative;
+    width: 982px;
   }
   .title {
     letter-spacing: 0;
-    margin-left: 41px;
+    margin-left: 42px;
     margin-top: 14px;
     min-height: 29px;
     min-width: 77px;
     mix-blend-mode: normal;
   }
   .vector {
-    height: 53px;
+    height: 193px;
+    left: 395px;
+    position: absolute;
+    top: 121px;
+    width: 192px;
+  }
+  .vector-1 {
+    height: 97px;
+    left: 460px;
+    position: absolute;
+    top: 170px;
+    width: 76px;
+  }
+  .vector-2 {
+    height: 74px;
+    margin-bottom: 0;
+    width: 423px;
+  }
+  .vector-3 {
+    height: 80px;
+    margin-left: 80px;
     mix-blend-mode: normal;
-    width: 53px;
+    width: 349px;
+  }
+  .vector-4 {
+    height: 33px;
+    margin-left: 7.91px;
+    margin-top: 77px;
+    mix-blend-mode: normal;
+    width: 428px;
+  }
+  .vector-5 {
+    height: 21px;
+    margin-left: 11.87px;
+    margin-top: 38px;
+    mix-blend-mode: normal;
+    width: 368px;
+  }
+  .vector-6 {
+    height: 21px;
+    margin-left: 11.87px;
+    margin-top: 18px;
+    mix-blend-mode: normal;
+    width: 368px;
   }
   
   @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
@@ -107,36 +163,4 @@
   .screen a {
     text-decoration: none;
     display: contents;
-  }
-
-  .montserrat-normal-black-24px {
-    color: var(--black);
-    font-family: var(--font-family-montserrat);
-    font-size: var(--font-size-m);
-    font-weight: 400;
-    font-style: normal;
-  }
-  .montserrat-normal-chicago-24px {
-    color: var(--chicago);
-    font-family: var(--font-family-montserrat);
-    font-size: var(--font-size-m);
-    font-weight: 400;
-    font-style: normal;
-  }
-
-
-  :root {
-    --black: 
-  rgba(0, 0, 0, 1);
-    --chicago: 
-  rgba(87, 87, 87, 0.502);
-    --iron: 
-  rgba(216, 216, 216, 1);
-    --white: 
-  rgba(255, 255, 255, 1);
-  
-    --font-size-m: 24px;
-    --font-size-l: 72px;
-  
-    --font-family-montserrat: "Montserrat";
   }
