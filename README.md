@@ -1,3 +1,9 @@
+# SendTogether (WIP)
+
+![SendTogether Logo](https://cdn.discordapp.com/attachments/857235461532549121/858573909360377856/SendTogether-logo.png)
+
+SendTogether is a social platform with the intention of lowering the expensive shipping costs associated with delivering packages to loved ones overseas through bulk shipping. We achieve this by streamlining the process of aggregating and consolidating shipments of packages sent to similar locations by Singaporeans to their loved ones overseas, minimizing peer to peer interaction and making the process as painless as possible. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
