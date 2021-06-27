@@ -1,11 +1,12 @@
 import LandingPage from "./components/landing-page/landing-page";
 import LoginPage from "./components/login-page/login-page";
+import ProfilePage from "./components/profile-page/profile-page.js"
 import React from 'react';
 
 class App extends React.Component {
   constructor() {
     super();
-    this.state = "login"
+    this.state = "profile"
   }
 
   renderSwitch(param) {
@@ -14,6 +15,8 @@ class App extends React.Component {
         return <LandingPage/>;
       case "login":
         return <LoginPage/>;
+      case "profile":
+        return <ProfilePage/>
       default:
         return <LandingPage/>;
     }

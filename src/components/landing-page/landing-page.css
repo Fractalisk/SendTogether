@@ -1,4 +1,4 @@
-.about-i195193 {
+.landing-about-i195193 {
     letter-spacing: 0;
     margin-left: 29px;
     margin-top: 14px;
@@ -6,7 +6,7 @@
     min-width: 98px;
     mix-blend-mode: normal;
   }
-  .about-i197193 {
+  .landing-about-i197193 {
     letter-spacing: 0;
     margin-left: 40px;
     margin-top: 14px;
@@ -14,7 +14,7 @@
     min-width: 88px;
     mix-blend-mode: normal;
   }
-  .body {
+  .landing-body {
     align-items: center;
     align-self: center;
     display: flex;
@@ -25,21 +25,21 @@
     min-height: 811px;
     width: 981px;
   }
-  .flex-row {
+  .landing-flex-row {
     align-items: center;
     display: flex;
     margin-left: 2.56px;
     margin-top: 86px;
     min-width: 853px;
   }
-  .header {
+  .landing-header {
     align-items: flex-start;
     display: flex;
     height: 89px;
     min-width: 1356px;
     margin-top: 30px;
   }
-  .image-1 {
+  .landing-image-1 {
     height: 63px;
     mix-blend-mode: normal;
     object-fit: cover;
@@ -55,7 +55,7 @@
     padding: 35px;
     width: 1440px;
   }
-  .login {
+  .landing-login {
     color: var(--white);
     font-family: var(--font-family-montserrat);
     font-size: var(--font-size-m);
@@ -66,7 +66,7 @@
     margin-top: 20px;
     margin-right: 24px;
   }
-  .login-button {
+  .landing-login-button {
     align-items: flex-start;
     align-self: flex-end;
     display: flex;
@@ -79,7 +79,7 @@
     padding: 0px 0px;
   }
 
-  .overlap-group {
+  .landing-overlap-group {
     align-items: flex-start;
     background-color: var(--mahogany);
     display: flex;
@@ -87,13 +87,13 @@
     justify-content: flex-end;
     min-width: 123px;
   }
-  .overlap-group-1 {
+  .landing-overlap-group-1 {
     background-size: 100% 100%;
     height: 436px;
     position: relative;
     width: 982px;
   }
-  .title {
+  .landing-title {
     letter-spacing: 0;
     margin-left: 42px;
     margin-top: 14px;
@@ -101,46 +101,46 @@
     min-width: 77px;
     mix-blend-mode: normal;
   }
-  .vector {
+  .landing-vector {
     height: 193px;
     left: 395px;
     position: absolute;
     top: 121px;
     width: 192px;
   }
-  .vector-1 {
+  .landing-vector-1 {
     height: 97px;
     left: 460px;
     position: absolute;
     top: 170px;
     width: 76px;
   }
-  .vector-2 {
+  .landing-vector-2 {
     height: 74px;
     margin-bottom: 0;
     width: 423px;
   }
-  .vector-3 {
+  .landing-vector-3 {
     height: 80px;
     margin-left: 80px;
     mix-blend-mode: normal;
     width: 349px;
   }
-  .vector-4 {
+  .landing-vector-4 {
     height: 33px;
     margin-left: 7.91px;
     margin-top: 77px;
     mix-blend-mode: normal;
     width: 428px;
   }
-  .vector-5 {
+  .landing-vector-5 {
     height: 21px;
     margin-left: 11.87px;
     margin-top: 38px;
     mix-blend-mode: normal;
     width: 368px;
   }
-  .vector-6 {
+  .landing-vector-6 {
     height: 21px;
     margin-left: 11.87px;
     margin-top: 18px;
@@ -149,18 +149,18 @@
   }
   
   @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
-  .container-center-horizontal {
+  .landing-container-center-horizontal {
     pointer-events: none;
     display: flex;
     flex-direction: row;
     justify-content: center;
     width: 100%;
   }
-  .container-center-horizontal > * {
+  .landing-container-center-horizontal > * {
     pointer-events: auto;
     flex-shrink: 0;
   }
-  .screen a {
+  .landing-screen a {
     text-decoration: none;
     display: contents;
   }

@@ -25,38 +25,37 @@ function LandingPage(props) {
         vector6,
         vector7,
       } = props;
-
   return (
-    <div class="container-center-horizontal">
+    <div class="landing-container-center-horizontal">
       <div className="landing-pagescreen">
-        <div className="header">
-          <img className="image-1" src={image1} />
-          <h1 className="title montserrat-normal-black-24px">{about}</h1>
-          <div className="about-i197193 montserrat-normal-black-24px">{aboutI197193}</div>
-          <div className="about-i195193 montserrat-normal-black-24px">{aboutI195193}</div>
-          <div className="login-button">
-            <button key="button-component">
-                <div className="overlap-group">
-                    <div className="login">{login}</div>
+        <div className="landing-header">
+          <img className="landing-image-1" src={image1} />
+          <h1 className="landing-title montserrat-normal-black-24px">{about}</h1>
+          <div className="landing-about-i197193 montserrat-normal-black-24px">{aboutI197193}</div>
+          <div className="landing-about-i195193 montserrat-normal-black-24px">{aboutI195193}</div>
+          <div className="landing-login-button">
+            <button key="landing-button-component">
+                <div className="landing-overlap-group">
+                    <div className="landing-login">{login}</div>
                 </div>
             </button>
           </div>
         </div>
-        <div className="body">
-          <div className="overlap-group-1" style={{ backgroundImage: `url(${overlapGroup})` }}>
+        <div className="landing-body">
+          <div className="landing-overlap-group-1" style={{ backgroundImage: `url(${overlapGroup})` }}>
             <img
-              className="vector"
+              className="landing-vector"
               src={vector}
             />
-            <img className="vector-1" src={vector2} />
+            <img className="landing-vector-1" src={vector2} />
           </div>
-          <div className="flex-row">
-            <img className="vector-2" src={vector3} />
-            <img className="vector-3" src={vector4} />
+          <div className="landing-flex-row">
+            <img className="landing-vector-2" src={vector3} />
+            <img className="landing-vector-3" src={vector4} />
           </div>
-          <img className="vector-4" src={vector5} />
-          <img className="vector-5" src={vector6} />
-          <img className="vector-6" src={vector7} />
+          <img className="landing-vector-4" src={vector5} />
+          <img className="landing-vector-5" src={vector6} />
+          <img className="landing-vector-6" src={vector7} />
         </div>
       </div>
     </div>
