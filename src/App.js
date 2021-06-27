@@ -1,12 +1,13 @@
-import LandingPage from "./components/landing-page/landing-page";
-import LoginPage from "./components/login-page/login-page";
-import ProfilePage from "./components/profile-page/profile-page.js"
+import LandingPage from "./components/landing-page/landing-page.js";
+import LoginPage from "./components/login-page/login-page.js";
+import ProfilePage from "./components/profile-page/profile-page.js";
+import CreateOrderPage from "./components/create-order-page/create-order-page.js";
 import React from 'react';
 
 class App extends React.Component {
   constructor() {
     super();
-    this.state = "profile"
+    this.state = "createorder"
   }
 
   renderSwitch(param) {
@@ -16,7 +17,9 @@ class App extends React.Component {
       case "login":
         return <LoginPage/>;
       case "profile":
-        return <ProfilePage/>
+        return <ProfilePage/>;
+      case "createorder":
+        return <CreateOrderPage/>;
       default:
         return <LandingPage/>;
     }

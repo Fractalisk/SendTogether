@@ -1,0 +1,210 @@
+.create-order-body {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.67px;
+    margin-top: 75px;
+    min-height: 463px;
+    position: relative;
+    width: 1131px;
+  }
+  .create-order-create {
+    letter-spacing: 0;
+    min-height: 44px;
+    mix-blend-mode: normal;
+    margin-top: 12px;
+  }
+  .create-order-create-button {
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    margin-top: 57px;
+    min-width: 209px;
+  }
+  .create-order-create-order-page {
+    align-items: center;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    height: 1024px;
+    mix-blend-mode: normal;
+    padding: 171px 152px;
+    width: 1440px;
+  }
+  .create-order-destination-field {
+    align-items: flex-start;
+    display: flex;
+    height: 68px;
+    margin-left: 62px;
+    min-width: 535px;
+  }
+  .create-order-details-field {
+    align-items: flex-start;
+    display: flex;
+    height: 235px;
+    margin-top: 47px;
+    min-width: 1133px;
+  }
+  .create-order-enter-details {
+    background-color: 
+  transparent;
+    border: 0;
+    height: 212px;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    mix-blend-mode: normal;
+    padding: 0;
+    position: absolute;
+    resize: none;
+    text-align: left;
+    top: 14px;
+    width: 1103px;
+  }
+  .enter-details::placeholder {
+    color: 
+  #5757574c;
+  }
+  .create-order-flex-row {
+    align-items: flex-start;
+    display: flex;
+    min-width: 1133px;
+  }
+  .create-order-overlap-group {
+    height: 71px;
+    margin-left: -1px;
+    margin-top: -1.37px;
+    position: relative;
+    width: 536px;
+  }
+  .create-order-overlap-group-1 {
+    height: 238px;
+    margin-left: -1px;
+    margin-top: -1.43px;
+    position: relative;
+    width: 1133px;
+  }
+  .create-order-overlap-group-2 {
+    align-items: flex-start;
+    background-size: 100% 100%;
+    display: flex;
+    height: 76px;
+    justify-content: center;
+    min-width: 140px;
+    padding: 15px 36px;
+  }
+  .create-order-package-type-field {
+    align-items: flex-start;
+    display: flex;
+    height: 68px;
+    min-width: 535px;
+  }
+  .create-order-select-destination {
+    background-color: 
+  transparent;
+    border: 0;
+    height: 44px;
+    left: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+    mix-blend-mode: normal;
+    padding: 0;
+    position: absolute;
+    resize: none;
+    text-align: left;
+    top: 13px;
+    width: 508px;
+  }
+  .select-destination::placeholder {
+    color: 
+  #5757574c;
+  }
+  .create-order-select-package-type {
+    background-color: 
+  transparent;
+    border: 0;
+    height: 44px;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: normal;
+    mix-blend-mode: normal;
+    padding: 0;
+    position: absolute;
+    resize: none;
+    text-align: left;
+    top: 13px;
+    width: 505px;
+  }
+  .select-package-type::placeholder {
+    color: 
+  #5757574c;
+  }
+  .create-order-title {
+    align-items: center;
+    background-color: var(--white);
+    display: flex;
+    height: 58px;
+    justify-content: center;
+    min-width: 244px;
+    mix-blend-mode: normal;
+    padding: 0 3px;
+    margin-top: 100px;
+  }
+  .create-order-title-1 {
+    letter-spacing: 0;
+    min-height: 44px;
+    min-width: 236px;
+    mix-blend-mode: normal;
+  }
+  .create-order-create-order-vector {
+    height: 71px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 536px;
+  }
+  .create-order-vector-1 {
+    height: 238px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1133px;
+  }
+  .create-order-select-courier {
+    letter-spacing: 0;
+    min-height: 44px;
+    min-width: 249px;
+    mix-blend-mode: normal;
+  }
+  .create-order-select-courier-button {
+    align-items: center;
+    background-color: var(--iron);
+    display: flex;
+    height: 64px;
+    justify-content: flex-end;
+    margin-left: 8.33px;
+    margin-top: 47px;
+    min-width: 267px;
+    mix-blend-mode: normal;
+    padding: 0 8px;
+  }
+  
+  @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+  .create-order-container-center-horizontal {
+    pointer-events: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  .create-order-container-center-horizontal > * {
+    pointer-events: auto;
+    flex-shrink: 0;
+  }
+  .create-order-screen a {
+    text-decoration: none;
+    display: contents;
+  }
+  input:focus {
+    outline: none;
+  }
