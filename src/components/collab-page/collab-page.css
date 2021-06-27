@@ -1,0 +1,267 @@
+.collab-page-arrival {
+    letter-spacing: 0;
+    margin-left: 198px;
+    min-height: 29px;
+    mix-blend-mode: normal;
+  }
+  .collab-page-back-button {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    margin-right: 32.0px;
+    margin-top: 34px;
+    min-width: 209px;
+  }
+  .collab-page-chat-body {
+    height: 645px;
+    margin-left: 0.71px;
+    margin-top: 35px;
+    width: 486px;
+  }
+  .collab-page-chat-panel {
+    align-items: flex-start;
+    display: flex;
+    height: 1024px;
+    left: 0;
+    min-width: 647px;
+    position: absolute;
+    top: 0;
+  }
+  .collab-page-collab-page {
+    align-items: flex-start;
+    background-color: var(--white);
+    display: flex;
+    mix-blend-mode: normal;
+    width: 1440px;
+  }
+  .collab-page-collection {
+    letter-spacing: 0;
+    min-height: 29px;
+    min-width: 123px;
+    mix-blend-mode: normal;
+  }
+  .collab-page-courier-ups {
+    letter-spacing: 0;
+    min-height: 44px;
+    min-width: 228px;
+    mix-blend-mode: normal;
+  }
+  .collab-page-details-panel {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 70px;
+    margin-top: 162.58px;
+    min-height: 761px;
+    width: 689px;
+  }
+  .collab-page-edit {
+    letter-spacing: 0;
+    min-height: 44px;
+    min-width: 78px;
+    mix-blend-mode: normal;
+  }
+  .collab-page-edit-button {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    margin-right: 30.96px;
+    margin-top: 92px;
+    min-width: 264px;
+  }
+  .collab-page-flex-row {
+    align-items: flex-start;
+    display: flex;
+    height: 29px;
+    margin-top: 20px;
+    min-width: 672px;
+  }
+  .collab-page-flex-row-1 {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    height: 44px;
+    margin-left: 6.0px;
+    margin-top: 24px;
+    min-width: 651px;
+  }
+  .collab-page-in-transit {
+    letter-spacing: 0;
+    margin-left: 157px;
+    min-height: 29px;
+    min-width: 116px;
+    mix-blend-mode: normal;
+  }
+  .collab-page-line-1 {
+    height: 1024px;
+    left: 642px;
+    position: absolute;
+    top: 0;
+    width: 1px;
+  }
+  .collab-page-overlap-group {
+    height: 1024px;
+    position: relative;
+    width: 647px;
+  }
+  .collab-page-overlap-group1 {
+    align-items: center;
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    min-height: 1024px;
+    padding: 33.6px 1.4px;
+    width: 646px;
+  }
+  .collab-page-overlap-group1-1 {
+    align-items: center;
+    background-size: 100% 100%;
+    display: flex;
+    height: 59px;
+    justify-content: center;
+    min-width: 207px;
+    padding: 7.0px 54px;
+  }
+  .collab-page-overlap-group2 {
+    height: 49px;
+    margin-left: -0.23px;
+    position: relative;
+    width: 671px;
+  }
+  .collab-page-overlap-group3 {
+    align-items: flex-end;
+    background-size: 100% 100%;
+    display: flex;
+    height: 60px;
+    justify-content: flex-end;
+    margin-top: -0.22px;
+    min-width: 263px;
+    padding: 7.6px 91.5px;
+  }
+  .collab-page-place {
+    letter-spacing: 0;
+    min-height: 44px;
+    min-width: 97px;
+    mix-blend-mode: normal;
+    width: 97px;
+  }
+  .collab-page-text-1 {
+    letter-spacing: 0;
+    margin-left: 24px;
+    margin-top: 19px;
+    min-height: 44px;
+    mix-blend-mode: normal;
+  }
+  .collab-page-text-2 {
+    letter-spacing: 0;
+    margin-left: 24px;
+    margin-top: 25px;
+    min-height: 44px;
+    mix-blend-mode: normal;
+  }
+  .collab-page-text-3 {
+    letter-spacing: 0;
+    margin-left: 24px;
+    margin-top: 45px;
+    min-height: 44px;
+    mix-blend-mode: normal;
+  }
+  .collab-page-text-4 {
+    align-self: center;
+    letter-spacing: 0;
+    margin-right: 16.0px;
+    margin-top: 86px;
+    min-height: 44px;
+    min-width: 415px;
+    mix-blend-mode: normal;
+  }
+  .collab-page-title {
+    letter-spacing: 0;
+    margin-left: 2.26px;
+    min-height: 44px;
+    min-width: 89px;
+    mix-blend-mode: normal;
+  }
+  .collab-page-total-price-5635 {
+    letter-spacing: 0;
+    margin-left: 104px;
+    min-height: 44px;
+    mix-blend-mode: normal;
+  }
+  .collab-page-vector {
+    height: 4px;
+    left: 0;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 21px;
+    width: 671px;
+  }
+  .collab-page-vector-1 {
+    height: 2px;
+    margin-left: 0.1px;
+    margin-top: 64px;
+    width: 643px;
+  }
+  .collab-page-vector-2 {
+    height: 20px;
+    margin-right: 87.23px;
+    margin-top: 34px;
+    mix-blend-mode: normal;
+    width: 399px;
+  }
+  .collab-page-vector-3 {
+    height: 20px;
+    margin-right: 128.95px;
+    margin-top: 17px;
+    mix-blend-mode: normal;
+    width: 358px;
+  }
+  .collab-page-vector-4 {
+    align-self: flex-start;
+    height: 20px;
+    margin-left: 78.24px;
+    margin-top: 17px;
+    mix-blend-mode: normal;
+    width: 297px;
+  }
+  .collab-page-vector-5 {
+    height: 49px;
+    left: 622px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  .collab-page-vector-6 {
+    height: 49px;
+    left: 313px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 0;
+    width: 48px;
+  }
+  .collab-page-vector-7 {
+    height: 49px;
+    left: 0;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+  .collab-page-container-center-horizontal {
+    pointer-events: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  .collab-page-container-center-horizontal > * {
+    pointer-events: auto;
+    flex-shrink: 0;
+  }
+  .collab-page-screen a {
+    text-decoration: none;
+    display: contents;
+  }
